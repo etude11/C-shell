@@ -1,0 +1,9 @@
+clear
+echo lol 
+proclore
+clear
+echo lol > a.txt
+clear
+echo lol | wc
+clear
+clear
