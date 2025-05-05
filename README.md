@@ -1,4 +1,3 @@
-# mini-project-1-template
 # C Shell
 
 ## Overview
