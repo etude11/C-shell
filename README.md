@@ -1,5 +1,5 @@
 # mini-project-1-template
-# SIGMA Shell
+# C Shell
 
 ## Overview
 
